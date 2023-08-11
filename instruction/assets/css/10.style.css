@@ -1,0 +1,21 @@
+:root{
+    --bg: #38b04c;
+    --text: crimson;
+    --link:darkkhaki;
+    --bor: darkcyan;
+}
+.bg-success{
+    background-color: var(--bg) !important;
+}
+
+.text-success{
+    color: var(--text) !important;
+}
+
+.link.success{
+    color: var(--link) !important;
+}
+
+.border-success{
+    border-color: var(--bor) !important;
+}
